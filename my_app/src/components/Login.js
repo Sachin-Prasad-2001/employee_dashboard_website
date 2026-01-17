@@ -24,7 +24,7 @@ function Login(){
         setLoginText("");
         setPasswordText("");
         try{
-            const response = await axios.post(url,data);
+            const response = await axios.post(url,data,{withCredentials:true});
             console.log(response.data);
         } catch(error){
             console.error('Axios error:', error);

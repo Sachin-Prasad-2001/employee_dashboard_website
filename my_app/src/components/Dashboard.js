@@ -1,6 +1,5 @@
 import {useEffect, useState} from 'react';
 import axios from 'axios';
-import TableElement from './TableElement';
 import './Dashboard.css';
 
 function Dashboard(){
