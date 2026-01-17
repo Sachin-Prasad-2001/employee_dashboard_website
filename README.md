@@ -1,1 +1,5 @@
-This is a Login dashboard website, the frontend is made using React and the backend is made using FastAPI. The frontend runs on port 3000 and the backend runs on port 8000. A demo database of users and passwords were made. To test the website, first go to the login page by clicking on "Login" on the Navbar. Then enter "user1" for username and "password1" for password. Then move to the Dashboard on the navbar. The update funcionality has not been added yet.
+This is a Login dashboard website, the frontend is made using React and the backend is made using FastAPI. The frontend runs on port 3000 and the backend runs on port 8000. 
+
+A demo database of users and passwords were made. 
+
+To test the website, first go to the login page by clicking on "Login" on the Navbar. Then enter "user1" for username and "password1" for password. Then move to the Dashboard on the navbar. The update funcionality has not been added yet.
